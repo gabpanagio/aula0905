@@ -12,7 +12,7 @@ body {
 
 /* Estilo para o título */
 h1 {
-  color: #333;
+  color: #eb2626;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -27,8 +27,8 @@ h1 {
 
 /* Estilo para o segundo parágrafo */
 .paragrafo-dois {
-  font-size: 18px;
-  color: #007bff;
+  font-size: 20px;
+  color: #1eff00;
   line-height: 1.6;
 }
 
